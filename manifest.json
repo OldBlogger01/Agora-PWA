@@ -1,0 +1,42 @@
+{
+  "short_name": "Συνταγογραφήματα",
+  "name": "Συνταγογραφήματα",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/OldBlogger01/AgoraPWA/main/Agora-Image-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/OldBlogger01/AgoraPWA/main/Agora-Image-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://agora-eykaries.blogspot.com/?homescreen=1",
+  "background_color": "#222325",
+  "display": "standalone",
+  "scope": "https://agora-eykaries.blogspot.com/",
+  "theme_color": "#222325",
+  "description": "Βίντεο με τις Καλύτερες Συνταγές από τους Γνωστότερους Σεφ της Ελληνικής Κουζίνας",
+  "id": "https://agora-eykaries.blogspot.com/?homescreen=1",
+  "lang": "en",
+  "orientation": "landscape",
+  "display_override": [
+    "standalone",
+    "browser",
+    "window-controls-overlay"
+  ],
+  "screenshots": [
+    {
+      "src": "https://raw.githubusercontent.com/OldBlogger01/LathroPWA/main/Desktop-Image.png",
+      "sizes": "1920x1080",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/OldBlogger01/LathroPWA/main/Mobile-Image.png",
+      "sizes": "423x727",
+      "type": "image/png"
+    }
+  ]
+}
