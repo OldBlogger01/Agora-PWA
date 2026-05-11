@@ -1,0 +1,42 @@
+{
+  "short_name": "Sintagographimata",
+  "name": "Sintagographimata",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/OldBlogger01/Agora-PWA/refs/heads/main/Agora-Image-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/OldBlogger01/Agora-PWA/refs/heads/main/Agora-Image-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://agora-eykaries.blogspot.com/?homescreen=1",
+  "background_color": "#222325",
+  "display": "standalone",
+  "scope": "https://agora-eykaries.blogspot.com/",
+  "theme_color": "#222325",
+  "description": "Cooking Recipes and News",
+  "id": "https://agora-eykaries.blogspot.com/?homescreen=1",
+  "lang": "en",
+  "orientation": "landscape",
+  "display_override": [
+    "standalone",
+    "browser",
+    "window-controls-overlay"
+  ],
+  "screenshots": [
+    {
+      "src": "https://raw.githubusercontent.com/OldBlogger01/Agora-PWA/refs/heads/main/Desktop-Image.png",
+      "sizes": "1920x1080",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/OldBlogger01/Agora-PWA/refs/heads/main/Mobile-Image.png",
+      "sizes": "423x727",
+      "type": "image/png"
+    }
+  ]
+}
