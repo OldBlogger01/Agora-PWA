@@ -1,0 +1,26 @@
+{
+  "short_name": "Sintagographimata",
+  "name": "Sintagographimata - Cooking Recipes",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/OldBlogger01/Agora-PWA/refs/heads/main/Agora-Image-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/OldBlogger01/Agora-PWA/refs/heads/main/Agora-Image-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "https://agora-eykaries.blogspot.com/?homescreen=1",
+  "background_color": "#222325",
+  "display": "standalone",
+  "scope": "https://agora-eykaries.blogspot.com/",
+  "theme_color": "#222325",
+  "description": "Discover the best cooking recipes and culinary news.",
+  "lang": "el-GR",
+  "orientation": "any"
+}
