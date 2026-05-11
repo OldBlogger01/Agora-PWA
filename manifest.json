@@ -3,12 +3,12 @@
   "name": "Συνταγογραφήματα",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/OldBlogger01/Agora-PWA/main/Agora-Image-192.png",
+      "src": "https://raw.githubusercontent.com/OldBlogger01/Agora-PWA/refs/heads/main/Agora-Image-192.webp",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "https://raw.githubusercontent.com/OldBlogger01/Agora-PWA/main/Agora-Image-512.png",
+      "src": "https://raw.githubusercontent.com/OldBlogger01/Agora-PWA/refs/heads/main/Agora-Image-512.webp",
       "type": "image/png",
       "sizes": "512x512"
     }
